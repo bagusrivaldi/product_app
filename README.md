@@ -26,8 +26,8 @@ Mini Product App adalah aplikasi Flutter sederhana yang memiliki fitur authentic
 
 ## Tech Stack
 
-- Flutter 3.x
-- Dart 3.x
+- Flutter 3.41.6
+- Dart 3.11.4
 - Provider
 - Dio
 - Shared Preferences
@@ -49,8 +49,7 @@ Password: emilyspass
 ## Clone Project
 
 ```bash
-git clone <repository-url>
-cd bagus_project
+git clone https://github.com/bagusrivaldi/product_app.gits
 ```
 
 ## Install Dependencies
